@@ -1,1 +1,1 @@
-# Rsrudio-beginner-repo
+# Rstudio-beginner-repo
